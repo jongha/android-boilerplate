@@ -1,0 +1,2 @@
+include ':app', ':khanjar', ':sdk'
+project(':khanjar').projectDir = new File('modules/khanjar/khanjar')
